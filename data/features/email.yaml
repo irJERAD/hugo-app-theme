@@ -1,5 +1,5 @@
 weight: 5
-name: "Email Marketing"
+name: "Email"
 icon: "far fa-envelope"
-url: ""
-description: "Advantage old had otherwise sincerity dependent additions. It in adapted natural hastily is justice. Six draw you him full not mean evil."
+url: "http://localhost:1313/contact/"
+description: "Provide a point of contact for visitors to reach out to you via an email widget. Instantly receive inquiries from prospective clients."
